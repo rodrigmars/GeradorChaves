@@ -10,6 +10,9 @@ namespace GeradorChaves
 {
     public class Chaves
     {
+        /// <summary>
+        /// 
+        /// </summary>
         private static char[] Chars => "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890".ToCharArray();
         
         /// <summary>
