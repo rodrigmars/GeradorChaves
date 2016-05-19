@@ -1,0 +1,8 @@
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\bin\Debug\UnitTestGeradorChaves.dll
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\bin\Debug\UnitTestGeradorChaves.pdb
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\obj\Debug\UnitTestGeradorChaves.csprojResolveAssemblyReference.cache
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\obj\Debug\UnitTestGeradorChaves.dll
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\obj\Debug\UnitTestGeradorChaves.pdb
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\bin\Debug\GeradorChaves.dll
+F:\desenv\projetos\GeradorChavesUnicas\UnitTestGeradorChaves\bin\Debug\GeradorChaves.pdb
